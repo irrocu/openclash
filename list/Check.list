@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,incolumitas.com
 
 
 DOMAIN-SUFFIX,yunti.online
-IP-CIDR,65.21.206.96/32
+IP-CIDR,65.21.206.96/32,no-resolve
 DOMAIN-SUFFIX,apple-bing.sbs
 DOMAIN-SUFFIX,svcloud.one
 
