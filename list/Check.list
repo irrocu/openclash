@@ -46,8 +46,8 @@ DOMAIN-SUFFIX,incolumitas.com
 
 # 以下是我手工添加的
 DOMAIN-SUFFIX,yunti.online
-DOMAIN-SUFFIX,acwct.cn
 IP-CIDR,65.21.206.96/32,no-resolve
+DOMAIN-SUFFIX,acwct.cn
 DOMAIN-SUFFIX,apple-bing.sbs
 DOMAIN-SUFFIX,svcloud.one
 DOMAIN-KEYWORD,hongxing
