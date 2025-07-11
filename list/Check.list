@@ -51,4 +51,6 @@ DOMAIN-SUFFIX,acwct.cn
 DOMAIN-SUFFIX,apple-bing.sbs
 DOMAIN-SUFFIX,svcloud.one
 DOMAIN-KEYWORD,hongxing
-
+# 以下是我手工添加的两个图标网站
+DOMAIN-SUFFIX,igoutu.cn
+DOMAIN-SUFFIX,iconify.design
